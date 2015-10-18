@@ -1,6 +1,6 @@
 name: Michael
 favicon: null
-layout_spectrum: 0.2097864830866456
+layout_spectrum: 0.2852
 typography_spectrum: 0.15435884543694556
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.6647344389930367
+  brandStrength: 0.75
   lightness: 0.5283182826824486
   saturation: 0.7065728716552258
   rhythmicContrast: 0.7493707172106951
