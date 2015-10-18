@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.broadbandtvnews.com/2015/10/16/virgin-brings-the-smart-pavement-to-chesham/'
 title: Virgin brings the smart pavement to Chesham
-datePublished: '2015-10-18T19:31:39.761Z'
-dateModified: '2015-10-18T19:30:57.803Z'
+datePublished: '2015-10-18T20:25:01.738Z'
+dateModified: '2015-10-18T19:31:39.761Z'
 sourcePath: _posts/2015-10-18-virgin-brings-the-smart-pavement-to-chesham.md
 published: true
 inFeed: true
